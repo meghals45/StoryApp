@@ -1,19 +1,19 @@
-List<String> images =[
-      "image_3.jpg",
-      "image_4.jpg",
-      "image_1.jpg",
-      "image_3.jpg",
-      "image_4.jpg",
-      "image_1.jpg",
-
+List<String> images = [
+  "assets/img_7.jpg",
+  "assets/img_6.jpg",
+  "assets/img_5.jpg",
+  "assets/img_4.jpg",
+  "assets/img_3.jpg",
+  "assets/img_2.jpg",
+  "assets/img_1.jpg",
 ];
 
 List<String> title = [
-
-  "mom Love",
-  "meee",
-  "megh",
-  "mom Love",
-  "meee",
-  "megh",
+  "Hello",
+  "Hello",
+  "Hello",
+  "Hello",
+  "Hello",
+  "Hello",
+  "Hello",
 ];
